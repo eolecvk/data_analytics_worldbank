@@ -1,4 +1,4 @@
-#### CONTENT
+### CONTENT
 * `WDI_report.pdf` actual report
 * `WDI_report.Rmd` markdown file to generate the report
 * `main_20160305.R` R file containing all the code for data manipulation, analysis and graphs
@@ -6,7 +6,7 @@
 
 
 
-
+*Extract of `WDI_report.pdf`*
 # Investigating the relationship between technology and well-being
 
 * Introduction
