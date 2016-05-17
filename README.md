@@ -19,7 +19,7 @@
 
 This research studies the relationship between technology and well-being in countries. The data source used is the World Development Indicators data set created by the World Bank.
 
-## World Bank’s World Development Indicators
+### World Bank’s World Development Indicators
 
 The World Bank is a cooperative organization made up of 188 members countries and is governed by the
 minister of Finance or Development of member countries. The mission of the World Bank is to alleviate
@@ -41,7 +41,7 @@ Science & Technology, Infrastructure, Labor & Social Protection, Poverty, Privat
 Development and Urban Development.
 
 
-## Missing data policy
+### Missing data policy
 
 Some indicators have been created more recently than others. Overall, recent data tend to be more complete
 than older data. Furthermore, the data is not equally available from one country to another. For each
@@ -49,7 +49,7 @@ indicator there can be missing data for multiple countries and/or for multiple y
 is that it covers 80% of the total 248 countries/regions with at least one data point from 2010 to present.
 Any indicator that falls below this standard will not be used.
 
-## Indicators selection
+### Indicators selection
 
 I chose a subset of indicators data that would represent country’s level technological development as well as
 their level of well-being. Well-being is a complicated concept that can be defined in various ways but for
@@ -57,7 +57,7 @@ the purpose of this research, I have defined it as a function of Safety, Gender 
 Fertility. These topics represent different layers of needs inspired by the ‘Hierarchy of needs’ as introduced
 by A. Maslow in his Theory of Human Motivation.
 
-## Research framework
+### Research framework
 
 The goal of this research is to uncover existing relationships between technological development and well-being
 in countries.
