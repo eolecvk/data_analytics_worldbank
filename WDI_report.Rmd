@@ -1,21 +1,13 @@
----
-title: "Investigating the relationship between technology and well-being"
-author: "Eole Cervenka for Dr. David Oury (MA710)"
-date: "March 29th, 2016"
-output:
-  pdf_document:
-    toc: true
----
+Investigating the relationship between technology and well-being
 
-```{r global_options, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE, eval=TRUE, warning=FALSE, message=FALSE)
+=======================================================================================
 
-# Load .RData environment variables
-load("/home/eolus/Dropbox/MA710 Perso/ASSG1/WDI_Project/0_current.RData")
 
-```
+Eole Cervenka,
+supervised by Pr. David Oury
 
-******
+March 29th, 2016
+
 
 ## Introduction
 
